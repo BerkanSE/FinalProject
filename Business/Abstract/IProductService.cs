@@ -19,5 +19,9 @@ namespace Business.Abstract
 
         IResults Add(Product product);
 
+
+
+
+
     }
 }
