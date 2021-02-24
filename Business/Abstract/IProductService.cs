@@ -19,7 +19,7 @@ namespace Business.Abstract
 
         IResults Add(Product product);
 
-
+        IResults Update(Product product);
 
 
 
